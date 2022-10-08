@@ -1,3 +1,5 @@
 {
-  "livePreview.defaultPreviewPath": "c:\\Users\\ZCY\\Documents\\GitHub\\Information-Resource-Organization-and-Management-python\\5\\render.html"
+  "livePreview.defaultPreviewPath": "c:\\Users\\ZCY\\Documents\\GitHub\\Information-Resource-Organization-and-Management-python\\5\\render.html",
+  "docwriter.style": "Auto-detect",
+  "python.analysis.typeCheckingMode": "basic"
 }
