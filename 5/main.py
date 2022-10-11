@@ -3,7 +3,8 @@ from matplotlib import rcParams
 from matplotlib.pyplot import bar, pie, show, title, xlabel, ylabel
 from pandas import DataFrame, read_csv
 from pyecharts import options
-from pyecharts.charts import Pie, Bar
+from pyecharts.charts import Bar, Pie
+
 rcParams["font.sans-serif"] = ["SimHei"]  # 显示中文
 # %%
 
